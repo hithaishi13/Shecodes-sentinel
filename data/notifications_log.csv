@@ -1,0 +1,6 @@
+notification_id,donation_id,ngo_name,ngo_phone,restaurant_name,food_name,quantity_kg,distance_km,status,notified_at
+NOT20260425041552537409,DON20260425041540864282,Goonj - Koramangala,9844195520,Truffles,French Fries,0.5,1.65,notified,2026-04-25 04:15:52
+NOT20260425041552557683,DON20260425041540864282,Feeding India - Koramangala,9353239332,Truffles,French Fries,0.5,1.75,notified,2026-04-25 04:15:52
+NOT20260425041552576211,DON20260425041540864282,Robin Hood Army - Koramangala,3591869024,Truffles,French Fries,0.5,1.79,notified,2026-04-25 04:15:52
+NOT20260425041552593168,DON20260425041540864282,Hasiru Dala - Koramangala,9353239332,Truffles,French Fries,0.5,1.87,notified,2026-04-25 04:15:52
+NOT20260425041552611537,DON20260425041540864282,Akshaya Patra - Koramangala,9845905314,Truffles,French Fries,0.5,2.77,notified,2026-04-25 04:15:52
