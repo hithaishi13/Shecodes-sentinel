@@ -3,6 +3,7 @@ Overview
 A smart platform that connects surplus food donors with nearby NGOs, ensuring that excess food is not wasted but reaches those in need quickly and efficiently.
 
 Key Features
+
 Donor Registration & Verification
 - Secure signup system to ensure only genuine donors
 - Prevents fake or misleading food listings
